@@ -1,0 +1,27 @@
+{
+  "name": "how-is-that-spelled",
+  "version": "1.0.0",
+  "description": "Ever happened to you that you can say a word but can't spell it? Yeah me too.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlence/how-is-that-spelled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlence/how-is-that-spelled/issues"
+  },
+  "homepage": "https://github.com/vlence/how-is-that-spelled#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
