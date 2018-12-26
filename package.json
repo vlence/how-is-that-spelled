@@ -1,8 +1,8 @@
 {
   "name": "how-is-that-spelled",
   "version": "1.0.0",
-  "description": "Ever happened to you that you can say a word but can't spell it? Yeah me too.",
-  "main": "index.js",
+  "description": "Ever happened to you that you can pronounce a word but can't spell it? Yeah me too.",
+  "main": "pages/index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -25,7 +25,9 @@
     "next": "^7.0.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "styled-components": "^4.1.3"
+    "react-typography": "^0.16.18",
+    "styled-components": "^4.1.3",
+    "typography": "^0.16.18"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
